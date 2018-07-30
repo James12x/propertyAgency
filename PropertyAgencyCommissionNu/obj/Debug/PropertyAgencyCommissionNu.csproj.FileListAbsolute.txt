@@ -1,0 +1,41 @@
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\PropertyAgencyCommissionNu.exe.config
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\PropertyAgencyCommissionNu.exe
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\PropertyAgencyCommissionNu.pdb
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\Bunifu_UI_v1.52.dll
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.FormMain.resources
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.Properties.Resources.resources
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.csproj.GenerateResource.Cache
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.exe
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.pdb
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\MetroFramework.Design.dll
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\MetroFramework.dll
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\MetroFramework.Fonts.dll
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.csprojResolveAssemblyReference.cache
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.UcInsertDataPrincipal.resources
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.UcInsertDataBranch.resources
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.UcInsertDataAgent.resources
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.UcInsertCommission.resources
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.FormAddAgent.resources
+G:\[SCHOOL]\Kuliah\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.UcSetting.resources
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\PropertyAgencyCommissionNu.exe.config
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\PropertyAgencyCommissionNu.exe
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\PropertyAgencyCommissionNu.pdb
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\MetroFramework.Design.dll
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\MetroFramework.dll
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\MetroFramework.Fonts.dll
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\MySql.Data.dll
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.FormAddAgent.resources
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.FormMain.resources
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.Properties.Resources.resources
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.UcInsertCommission.resources
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.UcInsertData.resources
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.UcReport.resources
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.UcSetting.resources
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.csproj.GenerateResource.Cache
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.exe
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.pdb
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\obj\Debug\PropertyAgencyCommissionNu.csprojResolveAssemblyReference.cache
+E:\KuliahKuliah\SEMESTER 4\System Design and Implementation\tugas\PropertyAgencyCommissionNu\PropertyAgencyCommissionNu\bin\Debug\TreeGenerator.dll
